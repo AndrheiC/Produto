@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Produto</string>
+    <string-array name="lista_categoria">
+        <item>Limpeza</item>
+        <item>Merecearia</item>
+        <item>Açougue</item>
+        <item>Frios</item>
+        <item>Eletro</item>
+    </string-array>
 </resources>
